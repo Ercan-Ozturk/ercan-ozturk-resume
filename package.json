@@ -10,6 +10,7 @@
     "deploy": "npm run build && wrangler pages deploy ./dist"
   },
   "dependencies": {
+    "primeicons": "^7.0.0",
     "tailwind": "^4.0.0",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
