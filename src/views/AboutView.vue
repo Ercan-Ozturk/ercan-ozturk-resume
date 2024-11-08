@@ -5,7 +5,7 @@
       <div class="font-bold text-l">Software Engineer</div>
     </div>
 
-    <div class="grid grid-rows-4 grid-flow-col gap-5 px-6 py-2">
+    <div class="grid grid-rows-5 grid-flow-col gap-5 px-6 py-2">
       <div class="px-2 py-2 bg-black rounded-xl shadow-md relative">
         <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a purus</div>
       </div>
