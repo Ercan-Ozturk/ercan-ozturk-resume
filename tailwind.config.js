@@ -7,7 +7,7 @@ export default {
         sans: ["Poppins", "sans-serif"],
       },
     },
-    gridTemplateColumns: {},
+    gridTemplateColumns: { 5: "repeat(5, minmax(0, 1fr))" },
   },
   plugins: [],
 };
