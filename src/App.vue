@@ -3,7 +3,9 @@ import { RouterLink, RouterView } from "vue-router";
 </script>
 
 <template>
-  <div class="flex items-center justify-center h-screen">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <div class="flex-col lg:flex items-center justify-center h-screen">
     <div class="rows-3 items-center mx-10">
       <img alt=" Ercan Ozturk" class="image rounded-xl center p-2" src="@/assets/ercanozturk.jpg" width="500"
         height="500" />
@@ -25,4 +27,5 @@ import { RouterLink, RouterView } from "vue-router";
     </div>
 
   </div>
+
 </template>
