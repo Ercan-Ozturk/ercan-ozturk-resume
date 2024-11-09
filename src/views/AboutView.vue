@@ -5,12 +5,12 @@
       <div class="font-bold text-l">Software Engineer</div>
     </div>
 
-    <div class="grid grid-col lg:grid-flow-col grid-rows-5 gap-5 px-6 py-2">
-      <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center">
+    <div class="grid grid-col lg:grid-flow-col grid-rows-5 gap-5 px-6 py-2 ">
+      <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center ">
         <div>Ability to work in the EU (Bulgaria and
           Turkey Citizenship)</div>
       </div>
-      <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center">Highly skilled with Kotlin, Jetpack
+      <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text">Highly skilled with Kotlin, Jetpack
         Compose
         and XML</div>
       <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center">Multi-platform application experience
@@ -34,9 +34,8 @@
       <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center">Full Stack app making
         experience with Django and
         Flask</div>
-      <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center">Experience on databases such as MySQL,
-        SQL,
-        SQLite, PostgreSQL, and MongoDB</div>
+      <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center">Pandas/Numpy/Matplotlib/Scikit Learn
+      </div>
       <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center">DL - Tensorflow/Keras/PyTorch</div>
       <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center">Turkish – Native English – Professional
         Dutch -
