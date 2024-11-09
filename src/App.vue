@@ -7,7 +7,8 @@ import { RouterLink, RouterView } from "vue-router";
     <div class="flex flex-col md:flex-row items-center content  py-10 align-middle">
       <div class="rows-3">
         <div class="flex px-5 justify-center items-center object-scale-down">
-          <img alt=" Ercan Ozturk" class="image rounded-xl" src="@/assets/ercanozturk.jpg" width="400" height="400" />
+          <img alt=" Ercan Ozturk" class="image rounded-xl" src="@/assets/ercanozturk.jpg" width="256 md:400"
+            height="256 md:400" />
         </div>
         <div class="mx-5 rounded bg-green-800">
           <div class="font-mono text-xl mb-2 text-center">Ercan Öztürk</div>
@@ -22,7 +23,7 @@ import { RouterLink, RouterView } from "vue-router";
           </a>
         </div>
       </div>
-      <div>
+      <div class="overflow-scroll">
         <RouterView />
       </div>
 
