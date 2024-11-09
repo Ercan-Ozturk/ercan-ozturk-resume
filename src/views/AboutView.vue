@@ -1,11 +1,11 @@
 <template>
   <div class="m-5 bg-gray rounded-xl shadow-md relative">
 
-    <div class="mx-2 px-6 py-2">
+    <div class="">
       <div class="font-bold text-l">Software Engineer</div>
     </div>
 
-    <div class="grid grid-rows-5 grid-flow-col gap-5 px-6 py-2">
+    <div class="grid grid-col lg:grid-flow-col grid-rows-5 gap-5 px-6 py-2">
       <div class="px-2 py-2 bg-black rounded-xl shadow-md relative text-center">
         <div>Ability to work in the EU (Bulgaria and
           Turkey Citizenship)</div>

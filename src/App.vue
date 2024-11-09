@@ -3,12 +3,11 @@ import { RouterLink, RouterView } from "vue-router";
 </script>
 
 <template>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <div class="flex-col lg:flex items-center justify-center h-screen">
-    <div class="rows-3 items-center mx-10">
-      <img alt=" Ercan Ozturk" class="image rounded-xl center p-2" src="@/assets/ercanozturk.jpg" width="500"
-        height="500" />
+  <div class="md:flex flex-col  justify-center items-center h-screen w-screen">
+    <div class="rows-3">
+      <div class="flex justify-center items-center object-scale-down">
+        <img alt=" Ercan Ozturk" class="image rounded-xl" src="@/assets/ercanozturk.jpg" width="400" height="400" />
+      </div>
       <div class="mx-2 rounded bg-green-800">
         <div class="font-mono text-xl mb-2 text-center">Ercan Öztürk</div>
       </div>
