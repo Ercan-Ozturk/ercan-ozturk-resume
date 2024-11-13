@@ -5,7 +5,7 @@ import InfoCard from '@/components/InfoCard.vue';
 <template>
   <div class="m-5 bg-gray rounded-xl shadow-md relative">
 
-    <div class="">
+    <div class="px-8">
       <div class="font-bold text-l">Software Engineer</div>
     </div>
 
@@ -69,7 +69,7 @@ import InfoCard from '@/components/InfoCard.vue';
       <InfoCard>
         Turkish – Native English – Professional
         Dutch -
-        Conversational.
+        Conversational
       </InfoCard>
     </div>
   </div>
