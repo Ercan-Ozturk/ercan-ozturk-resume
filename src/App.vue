@@ -4,7 +4,7 @@ import { RouterLink, RouterView } from "vue-router";
 
 <template>
   <div class="flex h-screen justify-center">
-    <div class="flex flex-col md:flex-row items-center content  py-10 align-middle">
+    <div class="flex flex-col md:flex-row items-center content  mt-10 align-middle">
       <div class="rows-3">
         <div class="flex px-5 justify-center items-center object-scale-down">
           <img alt=" Ercan Ozturk" class="image rounded-xl shadow-xl" src="@/assets/ercanozturk.jpg"
