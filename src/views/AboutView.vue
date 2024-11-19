@@ -8,7 +8,7 @@ import InfoCard from "@/components/InfoCard.vue";
       <div class="font-bold text-l">Software Engineer</div>
     </div>
 
-    <div class="grid grid-col lg:grid-flow-col grid-rows-5 gap-5 mx-2 py-2">
+    <div class="grid grid-col lg:grid-flow-col grid-rows-5 gap-5 w-full">
       <InfoCard>
         Ability to work in the EU (Bulgaria and Turkey Citizenship)
       </InfoCard>
