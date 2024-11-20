@@ -11,13 +11,13 @@ import InfoCard from "./components/InfoCard.vue";
     >
       <div class="flex flex-col">
         <ProfileInfo />
-        <nav class="flex flex-row justify-center gap-4 w-full">
-          <InfoCard>
-            <RouterLink to="/">Home</RouterLink>
-          </InfoCard>
-          <InfoCard>
-            <RouterLink to="/about">About</RouterLink>
-          </InfoCard>
+        <nav class="flex flex-row justify-center gap-6 w-full px-6">
+          <RouterLink to="/" class="w-1/2">
+            <InfoCard> Home </InfoCard>
+          </RouterLink>
+          <RouterLink to="/about" class="w-1/2">
+            <InfoCard> Skills </InfoCard>
+          </RouterLink>
         </nav>
       </div>
 
