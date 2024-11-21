@@ -3,6 +3,7 @@ export default {
   content: [
     "./index.html",
     "./src/**/*.{vue,js,jsx,tsx}",
+    "./src/components/*.{vue,js,jsx,tsx}",
     "./views/AboutView.vue",
   ],
   theme: {
