@@ -13,7 +13,7 @@ defineProps({
 
 <template>
   <div
-    class="content-center bg-gradient-to-t from-gray-900 to-green-700 rounded-lg shadow-lg drop-shadow-lg relative text-center"
+    class="content-center bg-gradient-to-t p-1 from-gray-900 to-green-700 rounded-lg shadow-lg drop-shadow-lg relative text-center"
   >
     <div class="text-slate-50 font-mono antialiased">
       <slot> </slot>
