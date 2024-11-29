@@ -30,15 +30,28 @@ import InfoCard from "./InfoCard.vue";
         </a>
       </div>
     </div>
-    <nav class="flex flex-row justify-center gap-6 w-full px-6">
-      <RouterLink to="/" class="w-1/3">
-        <InfoCard> Home </InfoCard>
+    <nav class="flex flex-row justify-evenly gap-4 items-center px-6">
+      <RouterLink to="/" class="w-1/3 items-center">
+        <button
+          class="bg-green-500 hover:bg-green-600 active:bg-green-700 focus:outline-none focus:ring focus:ring-green-300 p-2 rounded-md w-full text-black"
+        >
+          Home
+        </button>
       </RouterLink>
-      <RouterLink to="/about" class="w-1/3">
-        <InfoCard> Skills </InfoCard>
+      <RouterLink to="/about" class="w-1/3 items-center">
+        <button
+          class="bg-green-500 hover:bg-green-600 active:bg-green-700 focus:outline-none focus:ring focus:ring-green-300 p-2 rounded-md w-full text-black"
+        >
+          Skills
+        </button>
       </RouterLink>
-      <RouterLink to="/resume" class="w-1/3">
-        <InfoCard> Resume </InfoCard>
+
+      <RouterLink to="/resume" class="w-1/3 items-center">
+        <button
+          class="bg-green-500 hover:bg-green-600 active:bg-green-700 focus:outline-none focus:ring focus:ring-green-300 p-2 rounded-md w-full text-black"
+        >
+          Resume
+        </button>
       </RouterLink>
     </nav>
   </div>

@@ -1,6 +1,7 @@
 <template>
   <div>
-    <embed style="width: 100vw; height: 100vh" :src="pdf" />
+    <!-- <embed style="width: 100vw; height: 100%" :src="pdf" /> -->
+    <iframe style="width: 100vw; height: 100%" :src="pdf"> </iframe>
   </div>
 </template>
 
