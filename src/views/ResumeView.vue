@@ -1,3 +1,4 @@
+<script setup lang="ts"></script>
 <template>
   <div>
     <!-- <embed style="width: 100vw; height: 100%" :src="pdf" /> -->

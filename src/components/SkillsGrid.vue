@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import InfoCard from "./InfoCard.vue";
 </script>
 <template>

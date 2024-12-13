@@ -1,8 +1,4 @@
-<script setup>
-import { RouterLink, RouterView } from "vue-router";
-import ProfileInfo from "./components/ProfileInfo.vue";
-import InfoCard from "./components/InfoCard.vue";
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <!-- <RouterView /> -->

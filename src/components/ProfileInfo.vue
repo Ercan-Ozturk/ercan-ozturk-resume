@@ -1,6 +1,4 @@
-<script setup>
-import InfoCard from "./InfoCard.vue";
-</script>
+<script setup lang="ts"></script>
 <template>
   <div class="flex flex-col">
     <div class="rows-3">
